@@ -1,0 +1,11 @@
+/* App.css - Global styles for the photo gallery app */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
